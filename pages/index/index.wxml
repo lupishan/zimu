@@ -1,0 +1,3 @@
+<video src='https://www.lpsql.top/static/en/video/1.mp4' autoplay show-center-play-btn show-fullscreen-btn enable-progress-gesture bindtimeupdate="videoChange" >
+	<track id="track"/>
+</video>

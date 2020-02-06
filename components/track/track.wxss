@@ -1,0 +1,23 @@
+/* components/track/track.wxss */
+.zimu{
+    bottom:12px;
+    font-size: 22rpx;
+    position:absolute;
+    color:#fff;
+    width:80%;
+    padding:0 10%;
+    pointer-events:none;
+    text-align: center;
+}
+
+.zimu view{
+    pointer-events:none;
+    white-space: pre-wrap;
+}
+
+view {
+    display:block;
+    line-height:1.2;
+    overflow:hidden;
+    font-family:-apple-system;
+}
